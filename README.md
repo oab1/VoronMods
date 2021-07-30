@@ -12,7 +12,7 @@ however I did have to add two holes to the back panel for the blower inlet. Pell
 - 4x M3x5x4 heatset inserts
 - 4x m3 screws (6-8mm length OK)
 - Approx 200g of 4mm activated carbon pellets, I bought mine here:
-(https://www.amazon.com/gp/product/B00XNXIXAU/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
+https://envirosupply.net/products/4mm-pellet-virgin-coal-activated-carbon-charcoal-for-vapor-filtration-1-lb-bag
 
 ## Nevermore micro:
 Based on original design from 0ndsk4:
