@@ -1,6 +1,9 @@
 # VoronMods
 My modifications to the Voron v2 printer live here. 
 
+
+# V2 Exhaust
+![picture](Images/V2 Exhaust.JPG)
 Added new re-circulating exhaust fan to standard V2 rear location. Based on V2.2 exhaust housing modified to include u/0ndsk4's Nevermore micro design, with some minor tweaks.
 
 Uses 2 5015 Blower fans, and 4mm activated carbon pellets. The filter basket can be slightly larger since it is not restricted to fitting underneath the bed,
