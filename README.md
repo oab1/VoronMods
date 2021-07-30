@@ -14,10 +14,6 @@ however I did have to add two holes to the back panel for the blower inlet. Pell
 - Approx 200g of 4mm activated carbon pellets, I bought mine here:
 (https://www.amazon.com/gp/product/B00XNXIXAU/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
 
-
-## Maintenance
-It is recommended to replace the contents of the cartridge every 100 hours, or approximately 2 months.
-
-## Resources
-Nevermore micro:
+## Nevermore micro:
+Based on original design from 0ndsk4:
 https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/Nevermore_Micro
