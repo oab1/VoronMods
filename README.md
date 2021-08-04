@@ -12,7 +12,7 @@ Uses the same 2 5015 Blower fans, and 4mm activated carbon pellets. Two holes ne
 ## Hardware needed:
 - 2x 5015 blower fans (confirmed fitment with Winsin brand, but same as used in nevermore micro)
 - 4x 6x3mm magnet (same as used in V2 BOM)
-- 2x M3x5x4 heatset inserts
+- 6x M3x5x4 heatset inserts
 - 4x m3 screws (6-8mm length OK)
 - 3M VHB tape
 - Approx 200g of 4mm activated carbon pellets, I bought mine here:
