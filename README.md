@@ -3,7 +3,7 @@ My modifications to the Voron v2 printer live here.
 
 
 # V2 Exhaust
-![picture](Images/11.PNG)
+![picture](Images/1.PNG)
 ![picture](Images/5.PNG)
 
 
