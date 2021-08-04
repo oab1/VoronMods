@@ -1,6 +1,6 @@
 # V2 Exhaust Housing (Re-circulating)
 ![picture](Images/1.PNG)
-![picture](Images/6.PNG)
+![picture](Images/5.PNG)
 
 Modified existing v2.2 exhaust housing to incorporate u/0ndsk4's Nevermore micro re-circulating design. Added BSP fitting for bowden tube from v2.4 and a removable drawer as a filter basket to hold carbon pellets for filtration.
 
