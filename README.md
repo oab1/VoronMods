@@ -4,6 +4,9 @@ My modifications to the Voron v2 printer live here.
 
 # V2 Exhaust
 ![picture](Images/1.PNG)
+![picture](Images/2.PNG)
+
+
 
 Added new re-circulating exhaust fan to standard V2 rear location. Based on V2.2 exhaust housing modified to include u/0ndsk4's Nevermore micro design, with some minor tweaks.
 
