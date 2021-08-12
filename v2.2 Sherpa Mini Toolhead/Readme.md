@@ -1,4 +1,4 @@
-# V2.2 Toolhead
+# V2.2 Sherpa Mini Toolhead
 Codename: Tronhead
 
 ![picture](Images/1.PNG)
