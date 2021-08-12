@@ -1,4 +1,4 @@
-# V2.2 Sherpa Mini Toolhead
+# V2.2 30mm fan Toolhead + Sherpa Mini Extruder
 Codename: Tronhead
 
 ![picture](Images/1.PNG)
@@ -17,3 +17,6 @@ v2.2 toolhead for tighter integration of sherpa mini extruder
 - 30mm axial fan
 - 2x 4010 radial fans (same as v2.2)
 - Dragon hotend
+
+## Credit to Annex Engineering for this awesome extruder
+https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
