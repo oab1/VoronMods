@@ -1,5 +1,5 @@
-# Rear Panel Mounted Re-circulating Filter (Fanny Pack)
-(modified nevermore micro duo)
+# Rear Panel Mounted Re-circulating Filter
+Codename: FannyPack (a modified version of the Nevermore Micro Duo)
 
 ![picture](Images/1.PNG)
 ![picture](Images/5.PNG)
