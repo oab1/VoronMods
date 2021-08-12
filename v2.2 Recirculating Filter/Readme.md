@@ -12,6 +12,8 @@ Modified existing v2.2 exhaust housing to incorporate u/0ndsk4's Nevermore Micro
 - Removable drawer as a filter basket to hold carbon pellets for filtration.
 - Incorporated fitting for bowden tube from v2.4 (1/8" BSP adapter)
 
+I recommend printing the housing with at least 3 perimeters and at 15% infill. More than that is pretty overkill.
+
 ## Hardware needed:
 - 2x 5015 blower fans (confirmed fitment with Winsin brand, but same as used in nevermore micro)
 - 4x 6x3mm magnet (same as used in V2 BOM)
