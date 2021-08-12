@@ -1,4 +1,5 @@
-# V2 Exhaust Housing (Re-circulating)
+# Voron V2 Re-circulating Filter 
+(rear-mounted nevermore micro duo)
 ![picture](Images/1.PNG)
 ![picture](Images/5.PNG)
 
