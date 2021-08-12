@@ -19,5 +19,6 @@ v2.2 toolhead for tighter integration of sherpa mini extruder
 - Dragon hotend
 
 ## Sherpa Mini Extruder
-Original design for this extruder from Annex Engineering
+Original design for this extruder from Annex Engineering:
+
 https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
