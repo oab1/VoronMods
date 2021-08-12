@@ -18,5 +18,6 @@ v2.2 toolhead for tighter integration of sherpa mini extruder
 - 2x 4010 radial fans (same as v2.2)
 - Dragon hotend
 
-## Credit to Annex Engineering for this awesome extruder
+## Sherpa Mini Extruder
+Original design for this extruder from Annex Engineering
 https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
