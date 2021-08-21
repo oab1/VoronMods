@@ -1,14 +1,14 @@
 # V2.2 30mm fan Toolhead + Sherpa Mini Extruder
 Codename: Tronhead
 
-![picture](Images/1.PNG)
-![picture](Images/2.PNG)
+![picture](Images/0.PNG)
 
-v2.2 toolhead for tighter integration of sherpa mini extruder
+Modified v2.2 toolhead for tighter integration of sherpa mini extruder
 
 - Designed around 30mm hotend fan with Dragon hotend
 - New toolhead mount, modified X-Carriage, and modified Sherpa mini extruder with 16mm lower stack height, increased y-travel by 5mm
-- Currently only made a inductive probe sensor version
+- Currently only made a inductive probe sensor version (will add quick-draw style probe carriage)
+- single or dual mgn9 carriage setup (I am testing it with the standard single mgn9 first)
 - NEMA 14 motor mounts to x-carriage and backlash is adjusted at upper mounting position (slotted).
 
 ## Hardware needed:
