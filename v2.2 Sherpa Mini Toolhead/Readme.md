@@ -2,7 +2,7 @@
 Codename: Tronhead
 
 ![picture](Images/0.PNG)
-![picture](Images/2.PNG)
+![picture](Images/1.PNG)
 
 v2.2 toolhead for tighter integration of sherpa mini extruder
 
