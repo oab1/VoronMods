@@ -1,7 +1,7 @@
 # V2.2 30mm fan Toolhead + Sherpa Mini Extruder
 Codename: Tronhead
 
-![picture](Images/1.PNG)
+![picture](Images/0.PNG)
 ![picture](Images/2.PNG)
 
 v2.2 toolhead for tighter integration of sherpa mini extruder
