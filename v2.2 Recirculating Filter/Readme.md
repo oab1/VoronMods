@@ -10,7 +10,7 @@ Modified existing v2.2 exhaust housing to incorporate u/0ndsk4's Nevermore Micro
 - The housing works as a good cutting template once it is printed. 
 - Housing attaches to back panel with VHB tape
 - Removable drawer as a filter basket to hold carbon pellets for filtration.
-- Incorporated fitting for bowden tube from v2.4 (1/8" BSP adapter)
+- Two fitting options for bowden tube: (1) 1/8" BSP adapter (2) EASUN Push Fitting adapter
 
 I recommend printing the housing with at least 3 perimeters and about 15% infill. More infill than that is pretty overkill.
 
