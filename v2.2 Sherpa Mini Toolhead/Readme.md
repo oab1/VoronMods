@@ -33,8 +33,6 @@ Redoubt dual mgn9h + HUVUD toolhead PCB
 ![picture](Images/Tronhead_Huvud.PNG)
 ![picture](Images/RC2_huvud_integration.png)
 
-
-
 ## Hardware needed:
 - Extruder uses all the same hardware as Sherpa Mini
 - X-carriage uses all the same hardware as existing v2.2 carriage.
@@ -52,6 +50,9 @@ https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 
 ## Huvud Toolhead PCB
 https://github.com/bondus/KlipperToolboard
+
+## ANNEX Engineering Redoubt Project -
+https://github.com/Annex-Engineering/Redoubt
 
 
 
