@@ -9,9 +9,10 @@ Compact toolhead with direct drive extruder weighing in at 265 grams with steel 
 
 ### (1) Voron V2 - dual mgn9h with inductive probe and cable chains
 - 4mm increase in y-travel, 
-- ~200g lighter than aferburner toolhead
+- ~200g lighter than Afterburner toolhead
 
 ![picture](Images/Tronhead_Voron.PNG)
+![picture](Images/size_compare_afterburner.PNG)
 
 
 (2) ANNEX Redoubt - 
