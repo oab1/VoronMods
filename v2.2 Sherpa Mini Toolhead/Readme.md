@@ -3,9 +3,12 @@ Codename: Tronhead
 
 Compact toolhead with direct drive extruder weighing in at 265 grams with steel hardware. Features a modified sherpa mini extruder for tighter integration with hotend, 30mm  fan, dual 4010 part cooling fants, a magnetic probe and optional cover for mounting a Huvud toolhead PCB. 
 
-There are 3 options. The major difference is the X-carriage:
+There are 3 versions. The major difference is the X-carriage:
+
 (1) Voron dual mgn9h with inductive probe and cable chains
+
 (2) Redoubt dual mgn9h with dockable magnetic probe and umbilical cord
+
 (3) Redoubt dual mgn9h + HUVUD toolhead PCB (different connector cover and fan front plate)
 
 [(1) Voron V2] -
