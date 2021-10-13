@@ -1,7 +1,7 @@
 # V2 Direct Drive Toolhead
 Codename: Tronhead
 
-Compact toolhead with direct drive extruder weighing in at 265 grams with steel hardware. Features a modified sherpa mini extruder for tighter integration with hotend, magnetic probe, and optional Huvud integration all under the cover. 
+Compact toolhead with direct drive extruder weighing in at 265 grams with steel hardware. Features a modified sherpa mini extruder for tighter integration with hotend, magnetic probe, and optional Huvud (toolhead PCB) integration all under the cover. 
 
 ![picture](Images/tronhead_complete_3.PNG)
 ![picture](Images/uncovered.PNG)
@@ -36,3 +36,6 @@ Compact toolhead with direct drive extruder weighing in at 265 grams with steel 
 Original design for this extruder from Annex Engineering:
 
 https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
+
+## HUVUD Toolhead PCB
+https://github.com/bondus/KlipperToolboard
