@@ -16,6 +16,7 @@ Compact toolhead with direct drive extruder weighing in at 235 grams with standa
 - Currently only made a inductive probe sensor version (will add quick-draw style probe carriage)
 - single or dual mgn9 carriage setup (I am testing it with the standard single mgn9 first)
 
+![picture](Images/RC2_huvud_integration.PNG)
 >>RC2
 - dual mgn9h rail (top/bottom orientation)
 - dockable magnetic probe instead of inductive sensor
