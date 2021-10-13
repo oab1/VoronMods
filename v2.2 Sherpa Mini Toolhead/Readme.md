@@ -20,7 +20,7 @@ Redoubt dual mgn9h with dockable magnetic probe and umbilical cord
 - dockable magnetic probe instead of inductive sensor
 - rear mounting clamp for umbilical cord
 
-![picture](Images/uncovered.PNG)
+![picture](Images/Tronhead_RC2.PNG)
 
 (3) ANNEX Redoubt + HUVUD - 
 Redoubt dual mgn9h + HUVUD toolhead PCB
