@@ -1,27 +1,24 @@
 # V2 Direct Drive Toolhead
 Codename: Tronhead
 
-Compact toolhead with direct drive extruder weighing in at 265 grams with steel hardware. Features a modified sherpa mini extruder for tighter integration with hotend, 30mm  fan, dual 4010 part cooling fants, a magnetic probe and optional cover for mounting a Huvud toolhead PCB. 
+Compact toolhead with direct drive extruder weighing in at 265 grams with steel hardware. Features a modified sherpa mini extruder for tighter integration with hotend, 3010 fan  fan, dual 4010 part cooling fants, a dockable magnetic probe and optional Huvud toolhead PCB. 
 
-There are 3 versions. The major difference is the X-carriage:
+3 Configuration Options:
 
-(1) Voron dual mgn9h with inductive probe and cable chains
-
-(2) Redoubt dual mgn9h with dockable magnetic probe and umbilical cord
-
-(3) Redoubt dual mgn9h + HUVUD toolhead PCB (different connector cover and fan front plate)
-
-[(1) Voron V2] -
+(1) Voron V2 - 
+Voron dual mgn9h with inductive probe and cable chains
 - 4mm increase in y-travel, 
 - ~200g lighter than aferburner toolhead
 
-[(2) ANNEX Redoubt] -
+(2) ANNEX Redoubt - 
+Redoubt dual mgn9h with dockable magnetic probe and umbilical cord
 - 15mm increase in y-travel
 - dual mgn9h rail (top/bottom orientation) 
 - dockable magnetic probe instead of inductive sensor
 - rear mounting clamp for umbilical cord
 
-[(3) ANNEX Redoubt + HUVUD]
+(3) ANNEX Redoubt + HUVUD - 
+Redoubt dual mgn9h + HUVUD toolhead PCB
 - same but with forward folding connector cover for integration of Huvud toolhead board
 - Removed mounting clamp for umbilical cord
 
