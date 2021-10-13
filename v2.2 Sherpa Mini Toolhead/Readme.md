@@ -12,6 +12,7 @@ Compact toolhead with direct drive extruder weighing in at 265 grams with steel 
 - ~200g lighter than Afterburner toolhead
 
 ![picture](Images/Tronhead_Voron.PNG)
+![picture](Images/Tronhead_Voron_uncovered.PNG)
 ![picture](Images/size_compare_afterburner.PNG)
 
 
