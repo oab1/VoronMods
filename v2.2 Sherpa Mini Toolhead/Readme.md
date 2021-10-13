@@ -1,7 +1,7 @@
-# V2.2 30mm fan Toolhead + Sherpa Mini Extruder
+# V2 Direct Drive Toolhead
 Codename: Tronhead
 
-Compact toolhead with direct drive extruder weighing in at 235 grams with standard steel hardware. Modified sherpa mini extruder for tighter integration with hotend. 
+Compact toolhead with direct drive extruder weighing in at 235 grams with standard steel hardware. A modified sherpa mini extruder for tighter integration with hotend. 
 
 ![picture](Images/tronhead_complete_3.PNG)
 ![picture](Images/uncovered.PNG)
