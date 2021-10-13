@@ -1,9 +1,27 @@
 # V2 Direct Drive Toolhead
 Codename: Tronhead
 
-Compact toolhead with direct drive extruder weighing in at 265 grams with steel hardware. Features a modified sherpa mini extruder for tighter integration with hotend, magnetic probe, and optional Huvud (toolhead PCB) integration all under the cover. 
+Compact toolhead with direct drive extruder weighing in at 265 grams with steel hardware. Features a modified sherpa mini extruder for tighter integration with hotend, 30mm  fan, dual 4010 part cooling fants, a magnetic probe and optional cover for mounting a Huvud toolhead PCB. 
 
-There is also a Voron compatible version with inductive probe and cable chains.
+There are 3 options. The major difference is the X-carriage:
+(1) Voron dual mgn9h with inductive probe and cable chains
+(2) Redoubt dual mgn9h with dockable magnetic probe and umbilical cord
+(3) Redoubt dual mgn9h + HUVUD toolhead PCB (different connector cover and fan front plate)
+
+[(1) Voron V2] -
+- 4mm increase in y-travel, 
+- ~200g lighter than aferburner toolhead
+
+[(2) ANNEX Redoubt] -
+- 15mm increase in y-travel
+- dual mgn9h rail (top/bottom orientation) 
+- dockable magnetic probe instead of inductive sensor
+- rear mounting clamp for umbilical cord
+
+[(3) ANNEX Redoubt + HUVUD]
+- same but with forward folding connector cover for integration of Huvud toolhead board
+- Removed mounting clamp for umbilical cord
+
 
 ![picture](Images/tronhead_complete_3.PNG)
 ![picture](Images/uncovered.PNG)
@@ -15,14 +33,10 @@ There is also a Voron compatible version with inductive probe and cable chains.
 - New toolhead mount with exhaust flow path considerations to extract more flow from smaller fan, 5mm increase in y-travel
 - Modified X-Carriage integrates LDO NEMA14 motor with backlash adjustment, forms part of exhaust exit duct
 - Modified Sherpa mini extruder mounting locations for direct connection to carriage. 16mm lower stack height than current modular design. Tension screw flipped around for smaller package.
-- Currently only made a inductive probe sensor version (will add quick-draw style probe carriage)
-- single or dual mgn9 carriage setup (I am testing it with the standard single mgn9 first)
 
-![picture](Images/RC2_huvud_integration.PNG)
+![picture](Images/RC2_huvud_integration.png)
 >>RC2
-- dual mgn9h rail (top/bottom orientation)
-- dockable magnetic probe instead of inductive sensor
-- Huvud integration in connector cover (folds forward and down, instead of v2.2 style up/back)
+
 
 ## Hardware needed:
 - Extruder uses all the same hardware as Sherpa Mini
