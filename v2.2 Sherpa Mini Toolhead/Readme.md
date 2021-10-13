@@ -16,16 +16,16 @@ Compact toolhead with direct drive extruder weighing in at 265 grams with steel 
 ![picture](Images/size_compare_afterburner.PNG)
 
 
-(2) ANNEX Redoubt - 
+### (2) ANNEX Redoubt - 
 Redoubt dual mgn9h with dockable magnetic probe and umbilical cord
-- 15mm increase in y-travel
+- 15mm increase in y-travel (compared to v2.4)
 - dual mgn9h rail (top/bottom orientation) 
 - dockable magnetic probe instead of inductive sensor
 - rear mounting clamp for umbilical cord
 
 ![picture](Images/Tronhead_Redoubt.PNG)
 
-(3) ANNEX Redoubt + HUVUD - 
+### (3) ANNEX Redoubt + HUVUD - 
 Redoubt dual mgn9h + HUVUD toolhead PCB
 - same but with forward folding connector cover for integration of Huvud toolhead board
 - Removed mounting clamp for umbilical cord
@@ -50,5 +50,10 @@ https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 
 ## Huvud Toolhead PCB
 https://github.com/bondus/KlipperToolboard
+
+## ANNEX Engineering Redoubt Project -
+https://github.com/Annex-Engineering/Redoubt
+
+
 
 You can find me on Discord with any other questions, u/moab1#9591
