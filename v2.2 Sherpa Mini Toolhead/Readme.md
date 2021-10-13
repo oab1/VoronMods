@@ -27,6 +27,7 @@ Redoubt dual mgn9h + HUVUD toolhead PCB
 - same but with forward folding connector cover for integration of Huvud toolhead board
 - Removed mounting clamp for umbilical cord
 
+![picture](Images/Tronhead_RC2.PNG)
 ![picture](Images/RC2_huvud_integration.png)
 
 
