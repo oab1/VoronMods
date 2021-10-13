@@ -10,6 +10,9 @@ Voron dual mgn9h with inductive probe and cable chains
 - 4mm increase in y-travel, 
 - ~200g lighter than aferburner toolhead
 
+![picture](Images/tronhead_complete_3.PNG)
+
+
 (2) ANNEX Redoubt - 
 Redoubt dual mgn9h with dockable magnetic probe and umbilical cord
 - 15mm increase in y-travel
@@ -17,31 +20,21 @@ Redoubt dual mgn9h with dockable magnetic probe and umbilical cord
 - dockable magnetic probe instead of inductive sensor
 - rear mounting clamp for umbilical cord
 
+![picture](Images/uncovered.PNG)
+
 (3) ANNEX Redoubt + HUVUD - 
 Redoubt dual mgn9h + HUVUD toolhead PCB
 - same but with forward folding connector cover for integration of Huvud toolhead board
 - Removed mounting clamp for umbilical cord
 
-
-![picture](Images/tronhead_complete_3.PNG)
-![picture](Images/uncovered.PNG)
-
-
->>RC1:
-- 30 x 10mm hotend fan
-- TL Dragon hotend
-- New toolhead mount with exhaust flow path considerations to extract more flow from smaller fan, 5mm increase in y-travel
-- Modified X-Carriage integrates LDO NEMA14 motor with backlash adjustment, forms part of exhaust exit duct
-- Modified Sherpa mini extruder mounting locations for direct connection to carriage. 16mm lower stack height than current modular design. Tension screw flipped around for smaller package.
-
 ![picture](Images/RC2_huvud_integration.png)
->>RC2
+
 
 
 ## Hardware needed:
 - Extruder uses all the same hardware as Sherpa Mini
 - X-carriage uses all the same hardware as existing v2.2 carriage.
-- 30mm axial fan
+- 30mm x 10mm axial fan
 - 2x 4010 radial (blower) fans
 - Triangle Labs Dragon hotend
 - LDO NEMA 14 motor
