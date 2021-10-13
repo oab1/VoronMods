@@ -3,6 +3,8 @@ Codename: Tronhead
 
 Compact toolhead with direct drive extruder weighing in at 265 grams with steel hardware. Features a modified sherpa mini extruder for tighter integration with hotend, magnetic probe, and optional Huvud (toolhead PCB) integration all under the cover. 
 
+There is also a Voron compatible version with inductive probe and cable chains.
+
 ![picture](Images/tronhead_complete_3.PNG)
 ![picture](Images/uncovered.PNG)
 
