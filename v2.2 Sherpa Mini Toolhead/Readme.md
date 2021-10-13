@@ -31,7 +31,7 @@ Redoubt dual mgn9h + HUVUD toolhead PCB
 - Removed mounting clamp for umbilical cord
 
 ![picture](Images/Tronhead_Huvud.PNG)
-![picture](Images/RC2_huvud_integration.png)
+![picture](Images/Tronhead_huvud_open.PNG)
 
 ## Hardware needed:
 - Extruder uses all the same hardware as Sherpa Mini
