@@ -12,7 +12,7 @@ Voron dual mgn9h with inductive probe and cable chains
 - 4mm increase in y-travel, 
 - ~200g lighter than aferburner toolhead
 
-![picture](Images/tronhead_complete_3.PNG)
+![picture](Images/Tronhead_Voron.PNG)
 
 
 (2) ANNEX Redoubt - 
@@ -22,17 +22,15 @@ Redoubt dual mgn9h with dockable magnetic probe and umbilical cord
 - dockable magnetic probe instead of inductive sensor
 - rear mounting clamp for umbilical cord
 
-![picture](Images/Tronhead_RC2.PNG)
+![picture](Images/Tronhead_Redoubt.PNG)
 
 (3) ANNEX Redoubt + HUVUD - 
 Redoubt dual mgn9h + HUVUD toolhead PCB
 - same but with forward folding connector cover for integration of Huvud toolhead board
 - Removed mounting clamp for umbilical cord
 
-![picture](Images/Tronhead_RC2.PNG)
+![picture](Images/Tronhead_Huvud.PNG)
 ![picture](Images/RC2_huvud_integration.png)
-
-
 
 ## Hardware needed:
 - Extruder uses all the same hardware as Sherpa Mini
@@ -49,5 +47,7 @@ Original design for this extruder from Annex Engineering:
 
 https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 
-## HUVUD Toolhead PCB
+## Huvud Toolhead PCB
 https://github.com/bondus/KlipperToolboard
+
+You can find me on Discord with any other questions, u/moab1#9591
