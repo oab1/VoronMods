@@ -18,7 +18,7 @@ Compact toolhead with direct drive extruder weighing in at 265 grams with steel 
 
 ### (2) ANNEX Redoubt - 
 Redoubt dual mgn9h with dockable magnetic probe and umbilical cord
-- 15mm increase in y-travel
+- 15mm increase in y-travel (compared to v2.4)
 - dual mgn9h rail (top/bottom orientation) 
 - dockable magnetic probe instead of inductive sensor
 - rear mounting clamp for umbilical cord
