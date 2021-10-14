@@ -25,7 +25,7 @@ Redoubt dual mgn9h with dockable magnetic probe and umbilical cord
 
 ![picture](Images/Tronhead_Redoubt.PNG)
 
-### (3) ANNEX Redoubt + HUVUD - 
+### (3) ANNEX Redoubt + Huvud - 
 Redoubt dual mgn9h + HUVUD toolhead PCB
 - same but with forward folding connector cover for integration of Huvud toolhead board
 - Removed mounting clamp for umbilical cord
