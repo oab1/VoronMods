@@ -40,8 +40,8 @@ Redoubt dual mgn9h + HUVUD toolhead PCB
 - 2x 4010 radial (blower) fans
 - Triangle Labs Dragon hotend
 - LDO NEMA 14 motor
-- omron/fotek inductive probe (if building RC1) OR mouse switch (if building RC2)
-- Huvud toolhead PCB (optional for RC2)
+- inductive probe (omron) OR OR microswitch (Omron D2F-5 or similar)
+- Huvud toolhead PCB (optional)
 
 ## Sherpa Mini Extruder
 Original design for this extruder from Annex Engineering:
