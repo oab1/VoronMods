@@ -5,7 +5,7 @@ Compact toolhead with direct drive extruder weighing in at 265 grams with steel 
 
 ![picture](Images/scale_weight.PNG)
 
-3 Configuration Options:
+There is 1 base module, with 3 carriage options:
 
 ### (1) Voron V2 - dual mgn9h with inductive probe and cable chains
 - 4mm increase in y-travel, 
@@ -25,7 +25,7 @@ Redoubt dual mgn9h with dockable magnetic probe and umbilical cord
 
 ![picture](Images/Tronhead_Redoubt.PNG)
 
-### (3) ANNEX Redoubt + HUVUD - 
+### (3) ANNEX Redoubt + Huvud - 
 Redoubt dual mgn9h + HUVUD toolhead PCB
 - same but with forward folding connector cover for integration of Huvud toolhead board
 - Removed mounting clamp for umbilical cord
