@@ -1,7 +1,7 @@
 # V2 Direct Drive Toolhead
 Codename: Tronhead
 
-Compact toolhead with direct drive extruder weighing in at 265 grams with steel hardware. Features a modified sherpa mini extruder for tighter integration with hotend, 3010 fan  fan, dual 4010 part cooling fants, a dockable magnetic probe and optional Huvud toolhead PCB. 
+Compact toolhead with direct drive extruder weighing in at 265 grams with steel hardware. Features a modified sherpa mini extruder for better integration with non-groovemount hotends (dragon, mosquito, or similar), 3010 hotend fan, dual 4010 part fans, a dockable magnetic probe and optional Huvud toolhead PCB. 
 
 ![picture](Images/scale_weight.PNG)
 
@@ -31,7 +31,7 @@ Redoubt dual mgn9h + HUVUD toolhead PCB
 - Removed mounting clamp for umbilical cord
 
 ![picture](Images/Tronhead_Huvud.PNG)
-![picture](Images/RC2_huvud_integration.png)
+![picture](Images/Tronhead_huvud_open.PNG)
 
 ## Hardware needed:
 - Extruder uses all the same hardware as Sherpa Mini
@@ -40,8 +40,8 @@ Redoubt dual mgn9h + HUVUD toolhead PCB
 - 2x 4010 radial (blower) fans
 - Triangle Labs Dragon hotend
 - LDO NEMA 14 motor
-- omron/fotek inductive probe (if building RC1) OR mouse switch (if building RC2)
-- Huvud toolhead PCB (optional for RC2)
+- inductive probe (omron) OR OR microswitch (Omron D2F-5 or similar)
+- Huvud toolhead PCB (optional)
 
 ## Sherpa Mini Extruder
 Original design for this extruder from Annex Engineering:
