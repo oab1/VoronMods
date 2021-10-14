@@ -5,7 +5,7 @@ Compact toolhead with direct drive extruder weighing in at 265 grams with steel 
 
 ![picture](Images/scale_weight.PNG)
 
-3 Configuration Options:
+There is 1 base module, with 3 carriage options:
 
 ### (1) Voron V2 - dual mgn9h with inductive probe and cable chains
 - 4mm increase in y-travel, 
