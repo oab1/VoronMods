@@ -11,7 +11,7 @@ Current version is RC3.
 
 BOM:
 - 30mm x 10mm axial fan (x1)
-- 4010 radial (blower) fans
+- 4010 radial (blower) fans (x2)
 - Triangle Labs Dragon hotend
 - LDO NEMA 14 motor
 - Quickdraw Probe (Omron D2F-5 microswitch)
