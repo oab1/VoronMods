@@ -27,8 +27,7 @@ https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 https://github.com/bondus/KlipperToolboard
 
 ## ANNEX Engineering Quickdraw Probe -
-https://github.com/Annex-Engineering/Redoubt
-
+(https://github.com/Annex-Engineering/Quickdraw_Probe)
 
 
 You can find me on Discord with any other questions, u/moab1#9591
