@@ -31,6 +31,6 @@ Extruder design based on this extruder from ANNEX:
 https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 
 
-#Contact me
+
+
 You can find me on Discord with any other questions, u/moab1#9591
- 
