@@ -1,7 +1,7 @@
 # CoreXY Integrated Toolhead
 Codename: Tronhead
 
-Compact CoreXY toolhead with direct drive extruder and CAN board (Huvud) weighing in at 285 grams. Requires 3010 hotend fan and dragon hotend (or similar). Features integration w/ BMG gear extruder (based on ANNEX sherpa mini), Huvud PCB, and Quickdraw dockable magnetic probe. Forward folding hinge on front cover for easy access.
+Compact toolhead with integrated direct drive extruder, CAN board, and dockable magnetic probe weighing in at 285 grams. Forward folding hinge on front cover for easy access. Requires 3010 hotend fan and dragon hotend. Features integration w/ BMG gear extruder (based on ANNEX sherpa mini), Huvud PCB, and ANNEX Quickdraw dockable magnetic probe. 
 
 Current version is RC3.
 ### RC3:
@@ -14,7 +14,8 @@ BOM:
 - 4010 radial (blower) fans (x2)
 - Triangle Labs Dragon hotend
 - LDO NEMA 14 motor
-- Quickdraw Probe (Omron D2F-5 microswitch)
+- BMG 3mm hobbed gears and associated shafts and bearings
+- ANNEX Quickdraw Probe (recommended Omron D2F-5 microswitch)
 - Huvud toolhead PCB (optional)
 - misc m3 screws (m3x30mm is the largest)
 - m3x4.7x5 heatset inserts (x6)
@@ -31,3 +32,4 @@ https://github.com/bondus/KlipperToolboard
 
 
 You can find me on Discord with any other questions, u/moab1#9591
+ 
