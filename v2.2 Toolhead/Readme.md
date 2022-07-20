@@ -1,5 +1,5 @@
 # V2 Direct Drive Toolhead
-Codename: Tronhead (RC3)
+Codename: Tronhead
 
 Compact CoreXY toolhead with direct drive extruder and CAN board (Huvud) weighing in at 285 grams. Requires 3010 hotend fan and dragon hotend (or similar). Features integration w/ BMG gear extruder (based on ANNEX sherpa mini), Huvud PCB, and Quickdraw dockable magnetic probe.
 
