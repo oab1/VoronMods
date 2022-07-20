@@ -1,10 +1,23 @@
 # V2 Direct Drive Toolhead
-Codename: Tronhead
+Codename: Tronhead (RC3)
 
-Compact toolhead with direct drive extruder weighing in at 265 grams with steel hardware. Features a modified sherpa mini extruder for better integration with non-groovemount hotends (dragon, mosquito, or similar), 3010 hotend fan, dual 4010 part fans, a dockable magnetic probe and optional Huvud toolhead PCB. 
+Compact CoreXY toolhead with direct drive extruder and CAN board (Huvud) weighing in at 265 grams. Requires 3010 hotend fan and dragon hotend (or similar). Features integration w/ BMG gear extruder (based on ANNEX sherpa mini), Huvud PCB, and Quickdraw dockable magnetic probe.
 
-![picture](Images/scale_weight.PNG)
+![picture](Images/Tronhead_RC3.PNG)
 
+Current version is RC3.
+### RC3:
+
+
+BOM:
+- 30mm x 10mm axial fan (x1)
+- 4010 radial (blower) fans
+- Triangle Labs Dragon hotend
+- LDO NEMA 14 motor
+- inductive probe (omron) OR OR microswitch (Omron D2F-5 or similar)
+- Huvud toolhead PCB (optional)
+
+###RC2:
 There is 1 base module, with 3 carriage options:
 
 ### (1) Voron V2 - dual mgn9h with inductive probe and cable chains
