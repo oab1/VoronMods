@@ -12,7 +12,7 @@ BOM:
 - Triangle Labs Dragon hotend
 - LDO NEMA 14 motor
 - BMG 3mm hobbed gears and associated shafts and bearings
-- ANNEX Quickdraw Probe (recommended Omron D2F-5 microswitch)
+- ANNEX Quickdraw Probe
 - Huvud toolhead PCB (optional)
 - misc m3 screws (m3x30mm is the largest)
 - m3 heatset inserts (5.0mm x 4.0mm)(x7)
