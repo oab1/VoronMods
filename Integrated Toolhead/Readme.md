@@ -18,7 +18,7 @@ BOM:
 - ANNEX Quickdraw Probe (recommended Omron D2F-5 microswitch)
 - Huvud toolhead PCB (optional)
 - misc m3 screws (m3x30mm is the largest)
-- m3x4.7x5 heatset inserts (x6)
+- m3 heatset inserts (5.0mm x 4.0mm)(x7)
 
 ## Huvud Toolhead PCB
 https://github.com/bondus/KlipperToolboard
