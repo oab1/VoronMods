@@ -3,19 +3,21 @@ Codename: Tronhead (RC3)
 
 Compact CoreXY toolhead with direct drive extruder and CAN board (Huvud) weighing in at 265 grams. Requires 3010 hotend fan and dragon hotend (or similar). Features integration w/ BMG gear extruder (based on ANNEX sherpa mini), Huvud PCB, and Quickdraw dockable magnetic probe.
 
-![picture](Images/Tronhead_RC3.PNG)
-
 Current version is RC3.
 ### RC3:
 
+![picture](Images/Tronhead_RC3.PNG)
+![picture](Images/Tronhead_huvud_open.PNG)
 
 BOM:
 - 30mm x 10mm axial fan (x1)
 - 4010 radial (blower) fans
 - Triangle Labs Dragon hotend
 - LDO NEMA 14 motor
-- inductive probe (omron) OR OR microswitch (Omron D2F-5 or similar)
+- Quickdraw Probe (Omron D2F-5 microswitch)
 - Huvud toolhead PCB (optional)
+- misc m3 screws (m3x30mm is the largest)
+- m3x4.7x5 heatset inserts (x6)
 
 ###RC2:
 There is 1 base module, with 3 carriage options:
