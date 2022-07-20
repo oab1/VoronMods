@@ -1,4 +1,4 @@
-# CoreXY Integrated Toolhead
+# Integrated Toolhead
 Codename: Tronhead
 
 Compact toolhead with integrated direct drive extruder, CAN board, and dockable magnetic probe weighing in at 285 grams. Forward folding hinge on front cover for easy access. Dragon mount and extruder is a single piece design, making for a very rigid mount between extruder and hotend with fewer screws. Requires 3010 hotend fan and dragon hotend. Uses Huvud PCB, BMG style extruder based on ANNEX sherpa mini, and ANNEX Quickdraw dockable magnetic probe. 
